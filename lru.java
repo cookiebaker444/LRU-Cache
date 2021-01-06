@@ -1,3 +1,4 @@
+import java.util.HashMap;
 
 public class lru {
 	final Node head = new Node(0, 0);
